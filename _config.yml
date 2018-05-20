@@ -1,25 +1,25 @@
 # Site settings
-title: Lens
-description: Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a>
+title: Brett Petch
+description: My Photo Portfolio
 baseurl: "/lens-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author:
+author: Brett Petch
 
 # Collection settings
-collections:
+collections: 
   photos:
 
 # Social settings
-500px_url:
+500px_url: https://500px.com/brettjpetch
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://instagram.com/brettjpetch
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/bret7600
 
 # Build settings
 markdown: kramdown
